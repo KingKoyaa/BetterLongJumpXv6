@@ -1,0 +1,4 @@
+game.Players.LocalPlayer.Character.Humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+    game.Workspace.Gravity = 10
+    wait(2.2)
+    game.Workspace.Gravity = 192.6
